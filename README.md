@@ -1,3 +1,3 @@
 # While-Loop---Lab
-# While-cycle;
+# While-cycle
 # Repetition interrupt operators
